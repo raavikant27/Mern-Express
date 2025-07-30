@@ -1,0 +1,24 @@
+{
+  "name": "node-js-2025",
+  "version": "1.0.0",
+  "description": "complete express",
+  "homepage": "https://github.com/raavikant27/Mern-Express#readme",
+  "bugs": {
+    "url": "https://github.com/raavikant27/Mern-Express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raavikant27/Mern-Express.git"
+  },
+  "license": "ISC",
+  "author": "ravikant singh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
